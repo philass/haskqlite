@@ -1,0 +1,3 @@
+Figure out how to rename a project in stack
+
+

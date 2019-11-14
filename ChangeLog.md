@@ -1,3 +1,3 @@
-# Changelog for crapdb
+# Changelog for haskqlite
 
 ## Unreleased changes
